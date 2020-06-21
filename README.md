@@ -1,5 +1,4 @@
-# CodemongerzSih2020NSUT
-## This is a github repo for Sih Problem  Statement with PS Number:MS339
+# HACKJAIPUR
 #### We have created an Android Application that takes an Image of FIR extract important features from it and convert it into digital form and shows it.
 * #### First step that we have taken to create a ocr that can work with all type of handwriting is to deslant and remove cursive writing style.
 ![deslanting](./doc/deslanting.png)
